@@ -9,8 +9,8 @@ const client = new vision.ProductSearchClient();
  */
 const projectId = 'enstyle-220706';
 const location = 'us-east1';
-const productSetId = 'test_data';
-const productSetDisplayName = 'test_data_catlog';
+const productSetId = 'test';
+const productSetDisplayName = 'we_tested';
 
 // Resource path that represents Google Cloud Platform location.
 const locationPath = client.locationPath(projectId, location);
