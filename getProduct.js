@@ -7,7 +7,7 @@ const client = new vision.ProductSearchClient();
 const projectId = 'enstyle-220706';
 const location = 'us-east1';
 
-const productSetPath = 'projects/' + projectId + '/locations/' + location + '/products/' + '3'
+const productSetPath = 'projects/' + projectId + '/locations/' + location + '/products/' + '5'
 
 console.log(productSetPath)
 
