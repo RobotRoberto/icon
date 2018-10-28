@@ -19,7 +19,7 @@ const productSet = {
   displayName: productSetDisplayName,
 };
 
-const request = {
+const request = { 
   parent: locationPath,
   productSet: productSet,
   productSetId: productSetId,
